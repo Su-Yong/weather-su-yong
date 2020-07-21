@@ -1,0 +1,20 @@
+{
+  "name": "weather-su-yong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Su-Yong/weather-su-yong.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Su-Yong/weather-su-yong/issues"
+  },
+  "homepage": "https://github.com/Su-Yong/weather-su-yong#readme"
+}
