@@ -2,19 +2,23 @@
   "name": "weather-su-yong",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Su-Yong/weather-su-yong.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Su-Yong <simssy2205@gmail.com>",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/Su-Yong/weather-su-yong/issues"
   },
-  "homepage": "https://github.com/Su-Yong/weather-su-yong#readme"
+  "homepage": "https://github.com/Su-Yong/weather-su-yong#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0"
+  }
 }
